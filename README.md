@@ -1,0 +1,2 @@
+# js-assigns
+day6
